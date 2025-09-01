@@ -4,7 +4,7 @@
 
 ## Prérequis
 [1 - Configurations](ConfigurationsNécessaires.pdf)<br/>
-[2 - Utilisation de Glassfish](UtilisationDeGlassFish.pdf)<br/>
+[2 - Utilisation de Payara](UtilisationDePayara.pdf)<br/>
 
 ## Enoncés des travaux dirigés
 [1 - Premiers beans sessions et entités](TP1.pdf)<br/>
